@@ -1,0 +1,39 @@
+h1{
+    font-size: 45px;
+    font-family:Verdana;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+h3{
+    font-size: 1.5rem;
+}
+#btn{
+    background-color: rgb(33, 102, 231);
+    color: aliceblue;
+    border-color: #f4f4f4;
+    border-radius: 3px;
+}
+#game {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 10px;
+}
+#res {
+    transition: 0.3s;
+    font-size: 20px;
+}
+#play{
+    text-align: center;
+}
+#playagain{
+   padding: 8px 12px;
+   background-color: cornflowerblue;
+   color:white;
+   border-color: cornflowerblue;
+   
+}
+
